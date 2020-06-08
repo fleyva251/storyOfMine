@@ -1,0 +1,10 @@
+:root {
+  --light-blue: #11b9ec;
+  --dark-blue: #130497;
+}
+* {
+  font-family: 'Jura', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
